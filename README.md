@@ -1,10 +1,28 @@
 #### 동명대학교 컴퓨터공학과
+##### 마크다운 연습
 
-<h1>테이블</h1>
+<h1>프로젝트</h1>
 <table>
-  <tr><th>title</th><th>contents</th></tr>
-  <tr><td>html</td><td>data.</td></tr>
-  <tr><td>css</td><td>sytle.</td></tr>
-  <tr><td>js</td><td>process.</td></tr>
-  <tr><td>java.</td><td>backend.</td></tr>
+  <tr>
+    <th>안녕</th>
+    <th>하세요</th>
+  </tr>
+  <tr>
+    <td>AI융합대학</td>
+    <td>컴퓨터공학과</td>
+  </tr>
+  <tr>
+    <td>4학년</td>
+    <td>입니다</td>
+  </tr>
+  <tr>
+    <td>테이블이</td>
+    <td>만들어지네요</td>
+  </tr>
+  <tr>
+    <td>정말</td>
+    <td>신기해요</td>
+  </tr>
 </table>
+
+<a href="https://youtu.be/UpkEyf9B57I"><
